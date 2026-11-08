@@ -28,3 +28,4 @@ th,td{border:1px solid var(--line);padding:8px;text-align:left;vertical-align:to
 th{background:var(--card)}
 footer{margin-top:48px;padding-top:16px;border-top:1px solid var(--line);font-size:.85rem;color:var(--sub)}
 @media (max-width:520px){header{flex-wrap:wrap}nav{margin-left:0;width:100%}}
+.copy{margin-left:8px;font:inherit;font-size:.85rem;padding:2px 12px;border-radius:999px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer}
