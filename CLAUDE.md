@@ -1,6 +1,6 @@
 # CLAUDE.md — カフェオレGAME LAB のサイト
 
-GitHub Pages のユーザーサイト（公開先 https://cafeore56.github.io/ ）。ビルドなしの素の HTML/CSS。作業は **main に直接コミット・プッシュ**（push すると1〜2分で公開される）。
+GitHub Pages の組織サイト（組織 `cafeore-gamelab`、2026-11-09 に `cafeore56.github.io` から引っ越し）（公開先 https://cafeore-gamelab.github.io/ ）。ビルドなしの素の HTML/CSS。作業は **main に直接コミット・プッシュ**（push すると1〜2分で公開される）。
 
 ## 決まりごと
 - ユーザーは初級者。回答・コミットメッセージは日本語、専門用語は短く説明する
