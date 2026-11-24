@@ -1,4 +1,4 @@
-# CLAUDE.md — カフェオレGAME LAB のサイト
+# CLAUDE.md — Cafeore Game Lab のサイト
 
 GitHub Pages の組織サイト（組織 `cafeore-gamelab`、2026-11-09 に `cafeore56.github.io` から引っ越し）（公開先 https://cafeore-gamelab.github.io/ ）。ビルドなしの素の HTML/CSS。作業は **main に直接コミット・プッシュ**（push すると1〜2分で公開される）。
 
@@ -26,3 +26,7 @@ GitHub Pages の組織サイト（組織 `cafeore-gamelab`、2026-11-09 に `caf
 
 ## 上限（GitHub Pages）
 サイト1GB・1ファイル100MB・転送量 月100GB 目安
+
+## 屋号（表記をそろえる）
+- 屋号は **Cafeore Game Lab**（2026-11-24 に「カフェオレGAME LAB」から変更）
+- 開業届・D-U-N-S・Google Play の名前は一字一句同じにする必要があるので、サイトの表記もこれに合わせる。大文字・小文字・スペースも変えない

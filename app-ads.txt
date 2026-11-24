@@ -1,4 +1,4 @@
-# カフェオレGAME LAB の app-ads.txt
+# Cafeore Game Lab の app-ads.txt
 # AdMob の管理画面（アプリ ＞ app-ads.txt を設定）に表示される1行を、下の「#」を外して置き換える。
 # 例（pub- のあとは自分の番号）：
 # google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0

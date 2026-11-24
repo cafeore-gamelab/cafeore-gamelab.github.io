@@ -1,4 +1,4 @@
-# cafeore-gamelab.github.io（カフェオレGAME LAB のサイト）の中身
+# cafeore-gamelab.github.io（Cafeore Game Lab のサイト）の中身
 
 ノート67の「数ページだけのサイト」。GitHub Pages のユーザーサイトとして公開する前提。
 
