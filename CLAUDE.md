@@ -7,11 +7,11 @@ GitHub Pages の組織サイト（組織 `cafeore-gamelab`、2026-11-09 に `caf
 - ページを変えたら、公開後に `curl` で反映を確かめ、スマホ幅（390px）で横はみ出し・エラーがないか Playwright で見る
 - 作戦本部（`cafeore56/game`）のノート67が経緯。調査はあちら、このリポジトリはサイトの更新だけ
 
-## 役目（App Store Connect に入れる URL）
+## 役目（App Store Connect と Google Play Console に入れる URL）
 | ページ | 役目 |
 |---|---|
 | `/` | マーケティング URL。LAB の約束・ゲーム一覧・実況の方針 |
-| `/privacy/` | 全アプリ共通のプライバシーポリシー（App Store の「App のプライバシー」申告と中身をそろえる） |
+| `/privacy/` | 全アプリ共通のプライバシーポリシー（iPhone・Android 両方向け。App Store の「App のプライバシー」と Google Play の「データ セーフティ」の申告、両方と中身をそろえる） |
 | `/support/` | サポート URL。問い合わせ先 gamelab.cafeore@gmail.com（コピーボタンつき） |
 | `/app-ads.txt` | AdMob の確認用。ドメインのルートに置く必要がある |
 
